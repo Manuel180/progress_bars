@@ -1,0 +1,14 @@
+.inicio
+{
+	width: 0%;
+}
+
+.final
+{
+	width: 100%;
+}
+
+.animacion
+{
+	transition: all 8s ;
+}
